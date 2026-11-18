@@ -3,10 +3,10 @@ Complete at least TWO definitions in your own words (lab Part 2).
 Then add your name and GitHub username on the last line.
 
 Import:
-  Your definition:
+  Your definition: Import is a process of taking a repository from another source and copying it into my GitHub account together with all the files and commit history.
 
 Clone:
-  Your definition:
+  Your definition: Clone is to download a copy of a GitHub repository to my computer to work on locally.
 
 Fork:
   Your definition:
@@ -23,4 +23,4 @@ Merge:
 Upstream tracking (git push -u):
   Your definition:
 
-Completed by:
+Completed by: Arun Dhiman (adhiman12)
